@@ -27,9 +27,14 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+    Waterfall Methodology- is a linear and sequential approach where each phase of the project is completed before moving on to the next stage. It is widely used in industries where requirements are static and changes are expensive or time-consuming to implement.
+    Agile Methodology- is repititve and flexible that allows for continuous improvement and adaptation throughout the project lifecycle. It is suited for projects with evolving requirements, allowing for continuous improvement and faster delivery.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+    Software Developer- is a person who use codes together with other skills to create software applications that solve people's problems.
+    Quality Assurance Engineer- is a professional who tests softwares to ensure that they meet appropriate quality standards.
+    Project Manager- 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
